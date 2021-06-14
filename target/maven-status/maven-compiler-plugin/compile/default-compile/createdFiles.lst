@@ -1,0 +1,6 @@
+Class\Bank.class
+Interface\ICustomer.class
+Class\Branch.class
+Interface\IBranch.class
+Class\Customer.class
+Interface\IBank.class
